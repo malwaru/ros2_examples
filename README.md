@@ -1,1 +1,3 @@
-# ros2_examples
+# ROS2_examples
+
+Examples of basic ros2 programs
